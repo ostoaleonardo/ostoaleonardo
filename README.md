@@ -3,6 +3,10 @@ I'm a Frontend developer with my 💖 in [React](https://reactjs.org) and [JavaS
 
 <br/>
 
+<div>
+<a href="https://ostoaleonardo.vercel.app/">
+<img align="left" alt="OstoaLeonardo Portfolio" width="22px" src="https://icongr.am/fontawesome/link.svg?size=128&color=70c8ff" />
+</a>
 <a href="https://www.linkedin.com/in/ostoa-leonardo/">
 <img align="left" alt="OstoaLeonardo LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
@@ -12,6 +16,7 @@ I'm a Frontend developer with my 💖 in [React](https://reactjs.org) and [JavaS
 <a href="https://twitter.com/ostoaleonardo_">
 <img align="left" alt="OstoaLeonardo Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
+</div>
 
 <br />
 <br />
