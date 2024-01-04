@@ -15,8 +15,8 @@ const getAccessToken = async () => {
             Authorization: 'Basic ' + btoa(SPOTIFY_CLIENT_ID + ':' + SPOTIFY_SECRET_ID)
         },
         body: new URLSearchParams({
-            grant_type: 'SPOTIFY_REFRESH_TOKEN',
-            SPOTIFY_REFRESH_TOKEN,
+            grant_type: 'refresh_token',
+            refresh_token: SPOTIFY_REFRESH_TOKEN,
         })
     })
 
@@ -58,10 +58,12 @@ const formatRecentlySong = (song) => {
     const image = track.album.images[0]?.url || '';
     const artist = track.artists.map((_artist) => _artist.name).join(', ');
     const title = track.name || '';
+    const url = track.external_urls.spotify || '';
 
     return {
         title,
         artist,
         image,
+        url,
     };
 };

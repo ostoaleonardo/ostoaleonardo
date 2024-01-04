@@ -7,9 +7,9 @@ getRecentlyPlayed().then((track) => {
 });
 
 const generateSpotifyHTML = (track) => {
-    const { title, artist, image } = track;
+    const { title, artist, image, url } = track;
     return `
-        <a href="https://open.spotify.com/track/${track.id}">
+        <a href="${url}">
             <img src="${image}" width="22" height="22" />
             <h4>${title}</h4>
             <span>${artist}</span>
