@@ -1,5 +1,5 @@
 ## Hello World 👋 I'm [OstoaLeonardo!](https://ostoaleonardo.vercel.app/)
-I'm a Frontend developer with my 💖 in [React](https://reactjs.org) and [JavaScript](https://www.javascript.com/). I'm a student of [Universidad Politécnica de Pachuca](https://www.upp.edu.mx/).
+I'm a Frontend developer in [React](https://reactjs.org) and [JavaScript](https://www.javascript.com/). I'm a student of [Universidad Politécnica de Pachuca](https://www.upp.edu.mx/).
 
 <br/>
 
@@ -7,7 +7,7 @@ I'm a Frontend developer with my 💖 in [React](https://reactjs.org) and [JavaS
 <a href="https://ostoaleonardo.vercel.app/">
 <img align="left" alt="OstoaLeonardo Portfolio" width="22px" src="https://icongr.am/fontawesome/link.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://www.linkedin.com/in/ostoa-leonardo/">
+<a href="https://www.linkedin.com/in/ostoaleonardo/">
 <img align="left" alt="OstoaLeonardo LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://www.behance.net/ostoaleonardo">
@@ -21,22 +21,16 @@ I'm a Frontend developer with my 💖 in [React](https://reactjs.org) and [JavaS
 <br />
 <br />
 
-## What I'm up to
+## console.log()
 
-- 🔭 I’m currently working on some mobile gaming apps.
-- 🌱 I’m currently learning [React](https://reactjs.org), [JavaScript](https://www.javascript.com/) and [Kotlin](https://kotlinlang.org/).
-
-<br />
-
-## Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+```javascript
+const ostoaleonardo = {
+  code: ['HTML', 'CSS', 'JavaScript'],
+  tools: ['React', 'React Native', 'Tailwind CSS', 'Next.js', 'Expo'],
+}
+```
 
 <br />
 
-## 🪩 Discord:
+## <img src="https://cdn3.emoji.gg/emojis/5542-discord-clyde-gif.gif" width="25"> Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/771148579356016650?bg=0d1117&hideProfile=true)](https://discord.com/users/771148579356016650)
