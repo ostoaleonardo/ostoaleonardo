@@ -6,16 +6,13 @@ getRecentlyPlayed().then((track) => {
     return track;
 });
 
-const generateSpotifyHTML = (track) => {
-    const { title, artist, image, url } = track;
-    return `
-        <a href="${url}">
-            <img src="${image}" width="22" height="22" />
-            <h4>${title}</h4>
-            <span>${artist}</span>
-        </a>
-    `;
-};
+const generateSpotifyHTML = ({ title, artist, image, url }) =>
+`<a href="${url}">
+    <img src="${image}" width="22" height="22" />
+    <h4>${title}</h4>
+    <span>${artist}</span>
+</a>`;
+
 
 (async () => {
     const [readmeTemplate, recentlyPlayed] = await Promise.all([
@@ -23,8 +20,13 @@ const generateSpotifyHTML = (track) => {
         getRecentlyPlayed(),
     ]);
 
+    const getInfoTrack = () => {
+        const { title, artist, image, url } = recentlyPlayed;
+        return generateSpotifyHTML({ title, artist, image, url });
+    };
+
     const newMarkdown = readmeTemplate
-        .replace(PLACEHOLDERS.RECENTLY_PLAYED, generateSpotifyHTML(recentlyPlayed));
+        .replace(PLACEHOLDERS.RECENTLY_PLAYED, getInfoTrack());
 
     await fs.writeFile('README.md', newMarkdown);
 })();
