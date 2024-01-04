@@ -33,13 +33,11 @@ const ostoaleonardo = {
 <br />
 
 ## Recently Played
-
-        <a href="https://open.spotify.com/track/24tVqMiAtv8jmpNPhBEsDY">
-            <img src="https://i.scdn.co/image/ab67616d0000b2730b517c3d7d60a20db4f4737a" width="22" height="22" />
-            <h4>Now That I've Found You</h4>
-            <span>Martin Garrix, John Martin, Michel Zitron</span>
-        </a>
-    
+<a href="https://open.spotify.com/track/24tVqMiAtv8jmpNPhBEsDY">
+    <img src="https://i.scdn.co/image/ab67616d0000b2730b517c3d7d60a20db4f4737a" width="22" height="22" />
+    <h4>Now That I've Found You</h4>
+    <span>Martin Garrix, John Martin, Michel Zitron</span>
+</a>
 
 ## <img src="https://cdn3.emoji.gg/emojis/5542-discord-clyde-gif.gif" width="25"> Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/771148579356016650?bg=0d1117&hideProfile=true)](https://discord.com/users/771148579356016650)
