@@ -5,16 +5,16 @@ I'm a Frontend developer in [React](https://reactjs.org) and [JavaScript](https:
 
 <div>
 <a href="https://ostoaleonardo.vercel.app/">
-<img align="left" alt="OstoaLeonardo Portfolio" width="22px" src="https://icongr.am/fontawesome/link.svg?size=128&color=fff" />
+<img align="left" alt="OstoaLeonardo Portfolio" width="22px" src="https://icongr.am/fontawesome/link.svg?size=128&color=c9d1d9" />
 </a>
 <a href="https://www.linkedin.com/in/ostoaleonardo/">
-<img align="left" alt="OstoaLeonardo LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=fff" />
+<img align="left" alt="OstoaLeonardo LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=c9d1d9" />
 </a>
 <a href="https://www.behance.net/ostoaleonardo">
-<img align="left" alt="OstoaLeonardo Behance" width="22px" src="https://icongr.am/fontawesome/behance.svg?size=128&color=fff" />
+<img align="left" alt="OstoaLeonardo Behance" width="22px" src="https://icongr.am/fontawesome/behance.svg?size=128&color=c9d1d9" />
 </a>
 <a href="https://twitter.com/ostoaleonardo_">
-<img align="left" alt="OstoaLeonardo Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=fff" />
+<img align="left" alt="OstoaLeonardo Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=c9d1d9" />
 </a>
 </div>
 
