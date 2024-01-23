@@ -1,6 +1,6 @@
 ## Hello World 👋 I'm [OstoaLeonardo!](https://ostoaleonardo.vercel.app/)
 
-I'm a Frontend developer in [React](https://reactjs.org) and [JavaScript](https://www.javascript.com/).
+I'm a Frontend developer.
 
 <br/>
 
@@ -23,17 +23,13 @@ I'm a Frontend developer in [React](https://reactjs.org) and [JavaScript](https:
 
 ```javascript
 const ostoaleonardo = {
-  code: ["HTML", "CSS", "JavaScript"],
-  tools: ["React", "React Native", "Tailwind CSS", "Next.js", "Expo"],
+  code: ["HTML", "CSS", "JavaScript", "TypeScript"],
+  tools: ["React", "React Native", "Astro", "Tailwind CSS", "Next.js", "Expo"],
 };
 ```
 
 <br />
 
-## Recently played on Spotify
-
 ![Recently Played Spotify](https://spotify-recently-played-github-readme.vercel.app/api)
-
-## Discord
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=771148579356016650)
