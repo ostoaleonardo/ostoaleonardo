@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <samp>
 <a href='https://ostoaleonardo.vercel.app/'>website</a> ·
 <a href='https://www.linkedin.com/in/ostoaleonardo/'>linkedin</a> ·
