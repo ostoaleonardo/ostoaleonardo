@@ -1,27 +1,26 @@
-I'm a Frontend developer in [React](https://reactjs.org) and [JavaScript](https://www.javascript.com/).
+## Hey 👋 I'm [Duilio Ostoa!](https://ostoaleonardo.vercel.app/)
 
 <br/>
 
-<div>
-<a href="https://ostoaleonardo.vercel.app/">
-<img align="left" alt="OstoaLeonardo Portfolio" width="22px" src="https://icongr.am/fontawesome/link.svg?size=128&color=c9d1d9" />
-</a>
-<a href="https://www.linkedin.com/in/ostoaleonardo/">
-<img align="left" alt="OstoaLeonardo LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=c9d1d9" />
-</a>
-<a href="https://www.behance.net/ostoaleonardo">
-<img align="left" alt="OstoaLeonardo Behance" width="22px" src="https://icongr.am/fontawesome/behance.svg?size=128&color=c9d1d9" />
-</a>
+<div align='center'>
+  <samp>
+    <a href='https://ostoaleonardo.vercel.app/'>website</a> •
+    <a href='https://www.linkedin.com/in/ostoaleonardo/'>linkedin</a> •
+    <a href='https://www.behance.net/ostoaleonardo'>behance</a>
+  </samp>
 </div>
 
 <br />
 <br />
 
-```javascript
-const ostoaleonardo = {
-	code: ['HTML', 'CSS', 'JavaScript'],
-	tools: ['React', 'React Native', 'Tailwind CSS', 'Next.js', 'Expo'],
-};
+```json
+{
+	"job": "Software engineer",
+	"birthday": "2022-07-30",
+	"country": "México",
+	"stack": ["HTML", "CSS", "JavaScript", "Java", "Kotlin", "..."],
+	"technologies": ["React", "React Native", "Next.js", "Tailwind CSS", "..."]
+}
 ```
 
 <br />
@@ -32,12 +31,12 @@ const ostoaleonardo = {
 
 <picture>
   <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ostoaleonardo/ostoaleonardo/github-breakout/images/breakout-dark.svg"
+    media='(prefers-color-scheme: dark)'
+    srcset='https://raw.githubusercontent.com/ostoaleonardo/ostoaleonardo/github-breakout/images/breakout-dark.svg'
   />
   <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ostoaleonardo/ostoaleonardo/github-breakout/images/breakout-light.svg"
+    media='(prefers-color-scheme: light)'
+    srcset='https://raw.githubusercontent.com/ostoaleonardo/ostoaleonardo/github-breakout/images/breakout-light.svg'
   />
-  <img alt="Breakout Game" />
+  <img alt='Breakout Game' />
 </picture>
