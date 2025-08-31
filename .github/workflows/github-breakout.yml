@@ -36,7 +36,7 @@ jobs:
         run: |
           git checkout --orphan github-breakout
           git rm -rf .
-          mkdir images
+          mkdir -p images
           mv /tmp/breakout-images/* images/github-breakout/
           git add images
           git commit -m "🤖 Update GitHub breakout SVGs" || echo "🤖 No changes to commit"
