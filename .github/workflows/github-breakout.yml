@@ -23,9 +23,9 @@ jobs:
 
       - name: Move generated SVGs to temp
         run: |
-          mkdir -p images/github-breakout
-          mv output/light.svg images/github-breakout/breakout-light.svg
-          mv output/dark.svg images/github-breakout/breakout-dark.svg
+          mkdir -p /tmp/breakout-images
+          mv output/light.svg /tmp/breakout-images/breakout-light.svg
+          mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
 
       - name: Configure git
         run: |
@@ -36,8 +36,8 @@ jobs:
         run: |
           git checkout --orphan github-breakout
           git rm -rf .
-          mkdir -p images
-          mv images/github-breakout/* images/
+          mkdir images
+          mv /tmp/breakout-images/* images/github-breakout/
           git add images
           git commit -m "🤖 Update GitHub breakout SVGs" || echo "🤖 No changes to commit"
           git push --force origin github-breakout
