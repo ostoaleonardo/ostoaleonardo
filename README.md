@@ -19,13 +19,25 @@ I'm a Frontend developer in [React](https://reactjs.org) and [JavaScript](https:
 
 ```javascript
 const ostoaleonardo = {
-  code: ['HTML', 'CSS', 'JavaScript'],
-  tools: ['React', 'React Native', 'Tailwind CSS', 'Next.js', 'Expo'],
-}
+	code: ['HTML', 'CSS', 'JavaScript'],
+	tools: ['React', 'React Native', 'Tailwind CSS', 'Next.js', 'Expo'],
+};
 ```
 
 <br />
 
-![Recently Played Spotify](https://spotify-recently-played-github-readme.vercel.app/api)    
+![Recently Played Spotify](https://spotify-recently-played-github-readme.vercel.app/api)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/771148579356016650?bg=0d1117&hideProfile=true)](https://discord.com/users/771148579356016650)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/github-breakout/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/github-breakout/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="{YOUR IMAGE URL}/images/breakout-light.svg" />
+</picture>
