@@ -16,7 +16,7 @@
 ```json
 {
 	"job": "Software engineer",
-	"birthday": "2022-07-30",
+	"birthday": "2002-07-30",
 	"country": "México",
 	"stack": ["HTML", "CSS", "JavaScript", "Java", "Kotlin", "..."],
 	"technologies": ["React", "React Native", "Next.js", "Tailwind CSS", "..."]
