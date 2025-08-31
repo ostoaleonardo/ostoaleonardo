@@ -33,11 +33,11 @@ const ostoaleonardo = {
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="images/github-breakout/breakout-dark.svg"
+    srcset="https://raw.githubusercontent.com/ostoaleonardo/ostoaleonardo/github-breakout/images/breakout-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="images/github-breakout/breakout-light.svg"
+    srcset="https://raw.githubusercontent.com/ostoaleonardo/ostoaleonardo/github-breakout/images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="{YOUR IMAGE URL}/images/breakout-light.svg" />
+  <img alt="Breakout Game" />
 </picture>
