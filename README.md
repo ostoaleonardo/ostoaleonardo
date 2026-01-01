@@ -1,7 +1,3 @@
-## Hey 👋 I'm [Duilio Ostoa!](https://ostoaleonardo.vercel.app/)
-
-<br/>
-
 <div align='center'>
   <samp>
     <a href='https://ostoaleonardo.vercel.app/'>website</a> •
@@ -28,15 +24,3 @@
 ![Recently Played Spotify](https://spotify-recently-played-github-readme.vercel.app/api)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/771148579356016650?bg=0d1117&hideProfile=true)](https://discord.com/users/771148579356016650)
-
-<picture>
-  <source
-    media='(prefers-color-scheme: dark)'
-    srcset='https://raw.githubusercontent.com/ostoaleonardo/ostoaleonardo/github-breakout/images/breakout-dark.svg'
-  />
-  <source
-    media='(prefers-color-scheme: light)'
-    srcset='https://raw.githubusercontent.com/ostoaleonardo/ostoaleonardo/github-breakout/images/breakout-light.svg'
-  />
-  <img alt='Breakout Game' />
-</picture>
