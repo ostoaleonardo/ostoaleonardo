@@ -7,6 +7,7 @@
 
   <br />
   <br />
+  <br />
 
   ![Recently Played Spotify](https://spotify-recently-played-github-readme.vercel.app/api)
 </div>
