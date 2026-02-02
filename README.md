@@ -1,8 +1,8 @@
 <div align='center'>
   <samp>
-    <a href='https://ostoaleonardo.vercel.app/'>website</a> •
-    <a href='https://www.linkedin.com/in/ostoaleonardo/'>linkedin</a> •
-    <a href='https://www.behance.net/ostoaleonardo'>behance</a>
+    <a target='_blank' href='https://ostoaleonardo.vercel.app/'>website</a> •
+    <a target='_blank' href='https://www.linkedin.com/in/ostoaleonardo/'>linkedin</a> •
+    <a target='_blank' href='https://www.behance.net/ostoaleonardo'>behance</a>
   </samp>
 
   <br />
